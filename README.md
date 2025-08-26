@@ -35,7 +35,7 @@ This project is part of Assignment 2 for the Web Interface Design course (COMP21
 ## 🔗 Live Demo (Optional)
 
 > 
-> https://github.com/fsetareh/COMP213-Web-Interface-Design-Project_2
+> https://fsetareh.github.io/COMP213-Web-Interface-Design-Project_2/
 
 ---
 
